@@ -336,11 +336,12 @@ p {
   margin: auto;
   border-radius: 0.9375rem;
   width: 50%;
+  transition: .5s ease-in-out;
 }
 
 .explore-health .card img:hover {
   scale: 1.1  ;
-  transition: .5s ease;
+  
 }
 
 
