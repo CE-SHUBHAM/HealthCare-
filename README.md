@@ -1,1 +1,1 @@
-PROJECT_URL -  https://ce-shubham.github.io/healthcare/
+PROJECT_URL -  https://ce-shubham.github.io/HealthCare/
